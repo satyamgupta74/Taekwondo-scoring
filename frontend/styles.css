@@ -1,0 +1,5 @@
+/* frontend/styles.css */
+body { background: #f7f8fb; }
+.score-card { min-height: 160px; }
+.score-card.chong { border-left: 6px solid #198754; }
+.score-card.hong  { border-left: 6px solid #0d6efd; }
